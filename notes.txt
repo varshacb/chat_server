@@ -1,0 +1,3 @@
+1. no of clients is unlimited - no. of servers is 3 in total
+
+there is client socket and server socket  the server listens for connection through this socket and creates a communication socket specific to the client after connection
