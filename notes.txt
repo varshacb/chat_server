@@ -1,3 +1,8 @@
 1. no of clients is unlimited - no. of servers is 3 in total
 
 there is client socket and server socket  the server listens for connection through this socket and creates a communication socket specific to the client after connection
+
+https://youtu.be/KEiur5aZnIM?feature=shared
+https://codeburst.io/building-your-first-chat-application-using-flask-in-7-minutes-f98de4adfa5d
+https://www.youtube.com/watch?v=vDxrmKOJMJ8&list=PLyb_C2HpOQSBUEDI7tx_W4hAz699B6D7p&index=5
+https://www.scaler.com/topics/build-a-chatroom-in-python/
